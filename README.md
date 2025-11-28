@@ -1,6 +1,8 @@
 ## 👋 Hi there , I'm Niranjan Swain!
 
-![](https://komarev.com/ghpvc/?username=niranjan20000&color=give_your_color)
+![Profile Views](https://komarev.com/ghpvc/?username=niranjan20000&color=blue)
+
+
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
