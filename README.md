@@ -37,7 +37,7 @@
 
 <p>
   <a href="https://github.com/niranjan20000/Face-Recognition-Attendance-System" target="_blank">Face Recognition Attendance System</a> &nbsp; | &nbsp;
-  <a href="https://github.com/niranjan20000/State-Census-System" target="_blank">State Census System</a> &nbsp; | &nbsp;
+  <a href="https://github.com/niranjan20000/state-censuses" target="_blank">State Census System</a> &nbsp; | &nbsp;
   <a href="https://github.com/niranjan20000/PayPal-Integration-App" target="_blank">PayPal Integration App</a>
 </p>
 
