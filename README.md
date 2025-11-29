@@ -38,13 +38,6 @@
 <p>
   <a href="https://github.com/niranjan20000/Face-Recognition-Attendance-System" target="_blank">Face Recognition Attendance System</a> &nbsp; | &nbsp;
   <a href="https://github.com/niranjan20000/state-censuses" target="_blank">State Census System</a> &nbsp; | &nbsp;
-  <a href="https://github.com/niranjan20000/PayPal-Integration-App" target="_blank">PayPal Integration App</a>
+  <a >PayPal Integration App</a>
 </p>
-
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niranjan20000&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjan20000&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
 
