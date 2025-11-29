@@ -38,7 +38,7 @@
 <p>
   <a href="https://github.com/niranjan20000/Face-Recognition-Attendance-System" target="_blank">Face Recognition Attendance System</a> &nbsp; | &nbsp;
   <a href="https://github.com/niranjan20000/state-censuses" target="_blank">State Census System</a> &nbsp; | &nbsp;
-    <a href="https://github.com/niranjan20000/relpy-genie" target="_blank">Reply Genie</a> &nbsp; | &nbsp;
+    <a href="https://github.com/niranjan20000/Reply_genie" target="_blank">Reply Genie</a> &nbsp; | &nbsp;
   <a >PayPal Integration App</a>
 </p>
 
